@@ -1,0 +1,315 @@
+.nextarticle {
+    font-size: 20px;
+    float: right;
+    color: Grey;
+}
+
+.nextarticle:hover {
+    color: white;
+}
+
+.oldarticle {
+    font-size: 20px;
+    float: left;
+    color: Grey;
+}
+
+.oldarticle:hover {
+    color: white;
+}
+
+.goback {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    color: grey;
+}
+
+.goback:hover {
+    color: white;
+}
+
+.bodyaboutus {
+    padding-bottom: 10em;
+}
+
+.header {
+    background-color: black;
+    height: 10em;
+    max-width: 100%;
+    padding: 30px 0 20px;
+    border-style: ridge;
+    border-width: thick;
+    border-color: darkgrey;
+}
+
+.sitetitle {
+    font-family: georgia, garamond, serif;
+    font-size: 30px;
+    font-style: italic;
+    color: white;
+    padding-bottom: 0.5em;
+    text-align: center;
+    padding-top: 1em;
+}
+
+.navbar {
+    font-family: georgia, garamond, serif;
+    font-size: 20px;
+    font-style: italic;
+    padding-left: 24em;
+    vertical-align: baseline;
+}
+
+.homenav {
+    padding-right: 2em;
+    color: white;
+    font-size: 20px;
+}
+
+.homenav:hover {
+    text-decoration: overline;
+}
+
+.roadsnav {
+    padding-right: 2em;
+    color: white;
+    font-size: 20px;
+}
+
+.roadsnav:hover {
+    text-decoration: overline;
+}
+
+.historynav {
+    padding-right: 2em;
+    color: white;
+    font-size: 20px;
+}
+
+.historynav:hover {
+    text-decoration: overline;
+}
+
+.galleri {
+    padding-right: 2em;
+    color: white;
+    font-size: 20px;
+}
+
+.galleri:hover {
+    text-decoration: overline;
+}
+
+.articlenav {
+    padding-right: 2em;
+    color: white;
+    font-size: 20px;
+}
+
+.articlenav:hover {
+    text-decoration: overline;
+}
+
+.aboutnav {
+    padding-right: 2em;
+    color: white;
+    font-size: 20px;
+}
+
+.aboutnav:hover {
+    text-decoration: overline;
+}
+
+.hr {
+    width: 80%;
+}
+
+.text {
+    margin: 8px auto;
+    padding: 8px;
+    width: 980px;
+}
+
+.ptitle {
+    font-family: sans-serif;
+    font-size: 24px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.homepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 800em;
+    height: 350px;
+    padding: 5px;
+    line-height: 0;
+    border: 10px solid #000;
+    background-color: #eee;
+}
+
+.historytitle {
+    font-family: georgia, garamond, serif;
+    font-size: 30px;
+    font-style: italic;
+    color: white;
+    padding-bottom: 0.5em;
+    text-align: center;
+    padding-top: 1em;
+}
+
+.hr2 {
+    margin-top: -2em;
+    width: 30%;
+    margin-bottom: 2em;
+}
+
+.historytext {
+    margin: 8px auto;
+    padding: 8px;
+    width: 1300px;
+    font-size: 20px;
+    line-height: 18pt;
+    text-align: justify;
+}
+
+.historyimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 300px;
+    border-style: inset;
+}
+
+.svimgdetails {
+    width: 700px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: ridge;
+    border-color: grey;
+}
+
+.hrSv {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vatten {
+    text-align: center;
+}
+
+.historytext2 {
+    margin: 8px auto;
+    padding: 8px;
+    width: 1300px;
+    font-size: 20px;
+    line-height: 18pt;
+    text-align: justify;
+}
+
+.historynabar {
+    text-align: center;
+    margin-top: 2em;
+    margin-top: -1em;
+}
+
+.historylinksname {
+    text-align: center;
+}
+
+.blekinge {
+    color: white;
+    padding-right: 1em;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.blekinge:hover {
+    text-decoration: overline;
+}
+
+.sweden {
+    color: white;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.sweden:hover {
+    text-decoration: overline;
+}
+
+.nvm {
+    margin-left: 5em;
+    width: 500px;
+    text-align: center;
+    border-style: ridge;
+    border-color: grey;
+    border-radius: 10px;
+}
+
+.aboutnvm {
+    width: 550px;
+    text-align: justify;
+    margin-left: 7em;
+    font-size: 17px;
+}
+
+.aboutimg {
+    display: block;
+    margin-left: 8em;
+    width: 400px;
+    height: 200px;
+    border-style: inset;
+}
+
+.infome {
+    margin-left: 55em;
+    margin-top: -34.7em;
+}
+
+.me {
+    width: 500px;
+    border-style: ridge;
+    border-color: grey;
+    border-radius: 10px;
+}
+
+.myimg {
+    width: 200px;
+    height: 250px;
+    border-style: inset;
+}
+
+.idrees {
+    font-size: 30px;
+}
+
+body {
+    min-height: 55em;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+}
+
+html {
+    background-image: url("../img/background2.jpg");
+    background-attachment: fixed;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-color: black;
+    overflow-y: scroll;
+}
+
+@media (max-width: 980px) {
+    body {
+        width: auto;
+    }
+}

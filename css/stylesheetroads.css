@@ -1,0 +1,21 @@
+.roads {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2em;
+}
+
+.img {
+    border-style: groove;
+    margin-left: 7em;
+}
+
+.thumbnail {
+    border-style: dotted;
+}
+
+@media (max-width: 980px) {
+    body {
+        width: auto;
+    }
+}
